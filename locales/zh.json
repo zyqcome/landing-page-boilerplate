@@ -1,9 +1,9 @@
 {
   "Hero": {
-    "title1": "快速构建",
-    "title2": "落地页",
+    "title1": "快速合并",
+    "title2": "Excel",
     "title3": "",
-    "description": "一个免费、开源且强大的落地页模板，适用于各种项目，让你在一个小时内搭建落地页。"
+    "description": "一个快速合并Excel，迅速查找冲突数据的软件。"
   },
   "SocialProof": {
     "maker": "制作者快速开发"
@@ -29,15 +29,11 @@
     "description": "这里有一些最常见的问题。"
   },
   "CTA": {
-    "title": "立即构建你的落地页",
-    "description1": "构建",
-    "description2": "你的落地页，",
-    "description3": "展示",
-    "description4": "你的产品，并开始",
-    "description5": "赚取收入",
-    "description6": "！"
+    "title": "立即获取软件",
+    "description1": "拯救",
+    "description2": "你的统计表！"
   },
   "CTAButton": {
-    "title": "获取模板"
+    "title": "获取软件"
   }
 }

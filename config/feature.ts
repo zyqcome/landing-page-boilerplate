@@ -58,22 +58,22 @@ export const FEATURES_ZH = [
     title: "易于定制",
     content: "轻松更改颜色、字体和布局，无需任何编码知识。",
     icon: FaToolbox,
-  },
-  {
-    title: "SEO优化",
-    content: "构建模板时考虑到搜索引擎优化，增强网站的可发现性。",
-    icon: MagnetIcon,
-  },
-  {
-    title: "一键部署",
-    content: "与领先的网站托管服务紧密集成，实现即时网站发布。",
-    icon: MdCloudUpload,
-  },
-  {
-    title: "全球化支持",
-    content: "支持多种语言，让你的网站吸引全球受众。",
-    icon: FaEarthAsia,
-  },
+  }//,
+  // {
+  //   title: "SEO优化",
+  //   content: "构建模板时考虑到搜索引擎优化，增强网站的可发现性。",
+  //   icon: MagnetIcon,
+  // },
+  // {
+  //   title: "一键部署",
+  //   content: "与领先的网站托管服务紧密集成，实现即时网站发布。",
+  //   icon: MdCloudUpload,
+  // },
+  // {
+  //   title: "全球化支持",
+  //   content: "支持多种语言，让你的网站吸引全球受众。",
+  //   icon: FaEarthAsia,
+  // },
 ];
 
 export const FEATURES_JA = [

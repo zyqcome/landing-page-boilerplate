@@ -3,14 +3,14 @@ import Negotiator from "negotiator";
 
 export const locales = ["", "en", "en-US", "zh", "zh-CN", "zh-TW", 'zh-HK', 'ja', "ar", "es", "ru"];
 export const localeNames: any = {
-  en: "🇺🇸 English",
-  zh: "🇨🇳 中文",
-  ja: "🇯🇵 日本語",
-  ar: "🇸🇦 العربية",
-  es: "🇪🇸 Español",
-  ru: "🇷🇺 Русский",
+  // en: "🇺🇸 English",
+  zh: "🇨🇳 中文"//,
+  // ja: "🇯🇵 日本語",
+  // ar: "🇸🇦 العربية",
+  // es: "🇪🇸 Español",
+  // ru: "🇷🇺 Русский",
 };
-export const defaultLocale = "en";
+export const defaultLocale = "zh";
 
 // If you wish to automatically redirect users to a URL that matches their browser's language setting,
 // you can use the `getLocale` to get the browser's language.

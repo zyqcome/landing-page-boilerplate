@@ -12,14 +12,14 @@ const CTA = ({ locale, CTALocale }: { locale: any; CTALocale: any }) => {
             {locale.description1}
           </RoughNotation>{" "}
           {locale.description2}{" "}
-          <RoughNotation type="box" color="#b71c1c" show={true}>
+          {/* <RoughNotation type="box" color="#b71c1c" show={true}>
             {locale.description3}
           </RoughNotation>{" "}
           {locale.description4}{" "}
           <RoughNotation type="box" color="#b71c1c" show={true}>
             {locale.description5}
           </RoughNotation>
-          {locale.description6}
+          {locale.description6} */}
         </p>
       </div>
       <CTAButton locale={CTALocale} />
